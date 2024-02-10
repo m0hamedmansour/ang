@@ -1,0 +1,19 @@
+.div3{
+    background-color:#2C3E50 !important;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.divwest{
+    margin-left: 90px !important;
+}
+.divwest span {
+border-radius:51% ;
+border: 1px #fff solid !important;
+padding: 10px;
+margin-inline:3px ;
+}
+.foot{
+    background-color: #0A0E11;
+    text-align: center;
+    padding-block: 1.25rem;
+}

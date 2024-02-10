@@ -1,0 +1,14 @@
+.divp{
+    background-color: #1ABC9C !important;
+}
+.fit-content{
+    width: fit-content !important;
+}
+.line{
+height: 10px;
+width: 90px;
+background-color: #fff;
+}
+.about{
+    padding-block: 90px ;
+}

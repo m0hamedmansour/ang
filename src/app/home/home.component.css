@@ -1,0 +1,12 @@
+
+.div{
+background-color: #1ABC9C ;
+}
+.fit-content{
+    width: fit-content !important;
+}
+.line{
+height: 10px;
+width: 90px;
+background-color: #fff;
+}
